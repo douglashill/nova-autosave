@@ -4,11 +4,13 @@
     "organization": "Douglas Hill",
     "description": "Enables saving automatically when editing files.",
     "version": "1.0",
+    "repository": "https://github.com/douglashill/nova-autosave",
+    "bugs": "https://github.com/douglashill/nova-autosave/issues",
     "categories": [],
     
     "main": "main.js",
     
     "activationEvents": [
         "*"
-    ],    
+    ] 
 }
