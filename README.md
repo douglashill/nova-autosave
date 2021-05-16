@@ -1,4 +1,4 @@
-**AutoSave** enables saving automatically when editing files in Nova. No more ⌘S needed!
+**AutoSave** enables saving automatically when editing files. No more ⌘S needed!
 
 ## Usage
 

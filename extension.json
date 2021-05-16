@@ -2,19 +2,13 @@
     "identifier": "co.douglashill.nova-autosave",
     "name": "AutoSave",
     "organization": "Douglas Hill",
-    "description": "Enables saving automatically when editing files in Nova.",
+    "description": "Enables saving automatically when editing files.",
     "version": "1.0",
-    "categories": ["commands"],
+    "categories": [],
     
     "main": "main.js",
     
     "activationEvents": [
         "*"
-    ],
-    
-    "entitlements": {
-    },
-    
-    "commands": {
-    }
+    ],    
 }
