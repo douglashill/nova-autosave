@@ -2,4 +2,4 @@
 
 ## Usage
 
-Enable the AutoSave extension in Nova’s Extension Library. Changes will then be saved automatically whenever you pause while typing.
+Enable the AutoSave extension in Nova’s Extension Library. Changes will then be saved automatically 3 seconds after you stop editing.
