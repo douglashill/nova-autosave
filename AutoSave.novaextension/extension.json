@@ -3,7 +3,7 @@
     "name": "AutoSave",
     "organization": "Douglas Hill",
     "description": "Enables saving automatically when editing files.",
-    "version": "2",
+    "version": "3",
     "repository": "https://github.com/douglashill/nova-autosave",
     "bugs": "https://github.com/douglashill/nova-autosave/issues",
     "categories": [],
